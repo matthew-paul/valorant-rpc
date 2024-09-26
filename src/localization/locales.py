@@ -1,6 +1,6 @@
 Locales = {
     "en-US": {
-        "author": "@cm_an#2434",
+        "author": "@.semicolin",
         "config": {
             "version": "version",
             "region": "region",
@@ -87,6 +87,7 @@ Locales = {
                 "custom": "Custom",
                 "snowball": "Snowball Fight",
                 "swiftplay": "Swiftplay",
+                "hurm": "Team Deathmatch",
                 "": "Custom",
             },
             "pregame": {
@@ -207,7 +208,7 @@ Locales = {
         },
     },
     "de-DE": {
-        "author": "@zay#6353, @craftpiwurzel#8368, @Aethese#1337",
+        "author": "@zaykenyon, @craftpiwurzel#8368, @Aethese#1337",
         "config": {
             "version": "version",
             "region": "region",
@@ -293,6 +294,7 @@ Locales = {
                 "onefa": "Klonprogramm",
                 "custom": "Eigenes Spiel",
                 "snowball": "Schneeballschlacht",
+                "swiftplay": "Schnelles Spiel",
                 "": "Custom",
             },
             "pregame": {
@@ -413,7 +415,7 @@ Locales = {
         },
     },
     "es-MX": {
-        "author": "@jana.#0001",
+        "author": "@pessimismo",
         "config": {  # fix any grammar mistakes you can find
             "version": "versión",
             "region": "región",
@@ -615,7 +617,7 @@ Locales = {
             },
             "startup": {
                 "loading": "Chargement",
-                "view_github": "Voir sur GitHhb",
+                "view_github": "Voir sur GitHub",
             }
         },
     },
@@ -723,7 +725,7 @@ Locales = {
         },
     },
     "it-IT": {
-        "author": "@zay#6353",
+        "author": "@zaykenyon",
         "config": {
             "version": "version",
             "region": "region",
@@ -912,6 +914,8 @@ Locales = {
                 "onefa": "レプリケーション",
                 "custom": "カスタムゲーム",
                 "snowball": "スノーボールファイト",
+                "swiftplay": "スイフトプレイ",
+                "hurm": "チームデスマッチ",
                 "": "カスタム",
             },
             "pregame": {
@@ -1033,7 +1037,7 @@ Locales = {
     },
     "pl-PL": {},
     "pt-BR": {
-        "author": "@jana.#0001",
+        "author": "@pessimismo",
         "config": {
             "version": "versão",
             "region": "região",
@@ -1092,7 +1096,7 @@ Locales = {
         "presences": {
             "party_states": {
                 "open": "Grupo Aberto",
-                "solo": "Solo",
+                "solo": "Grupo Fechado (Solo)",
                 "in_party": "Em um Grupo",
             },
             "client_states": {
@@ -1120,6 +1124,7 @@ Locales = {
                 "custom": "Jogo Personalizado",
                 "snowball": "Batalha Nevada",
                 "swiftplay": "Frenético",
+                "hurm": "Mata-Mata em Equipe",
                 "": "Jogo Personalizado",
             },
             "pregame": {
@@ -1137,7 +1142,7 @@ Locales = {
         },
     },
     "ru-RU": {
-        "author": "@teddn#6036, @kizn#1234",
+        "author": "@teddn#6036, @kizn#6995",
         "config": {
             "version": "Версия",
             "region": "Регион",
@@ -1223,6 +1228,7 @@ Locales = {
                 "onefa": "Репликация",
                 "custom": "Своя игра",
                 "snowball": "Игра в снежки",
+                "swiftplay": "Быстрая игра",
                 "": "Своя игра",
             },
             "pregame": {
@@ -1240,60 +1246,60 @@ Locales = {
         }
     },
     "th-TH": {
-        "author": "@Nack#2336",
+        "author": "@Nack#2336, @TheMickeyz#3078",
         "config": {
-            "version": "เวอร์ชั่น",
+            "version": "เวอร์ชัน",
             "region": "ภูมิภาค",
             "client_id": "ไอดี",
-            "presence_refresh_interval": "ระยะเวลาในการรีเฟรช_Presence",
+            "presence_refresh_interval": "ระยะเวลาในการรีเฟรช Presence",
             "locale": "ภาษา",
             "presences": "presences",
             "menu": "เมนู",
-            "show_rank_in_comp_lobby": "โชว์แร้งค์_ในโหมดแร้งค์",
+            "show_rank_in_comp_lobby": "โชว์แรงก์ในโหมดแรงก์",
             "modes": "โหมด",
             "all": "ทั้งหมด",
             "small_image": "รูปเล็ก",
             "large_image": "รูปใหญ่",
-            "range": "โหมดฝึกฝน",
-            "show_rank_in_range": "โชว์แร้งค์_ในโหมดฝึกฝน",
+            "range": "โหมดฝึกซ้อม",
+            "show_rank_in_range": "โชว์แรงก์ในโหมดฝึกซ้อม",
             "startup": "เริ่มอัตโนมัติ",
-            "game_launch_timeout": "ระยะเวลาสูงสุด_ในการเปิดเกม",
-            "presence_timeout": "ระยะเวลาสูงสุดของ_Presence",
-            "show_github_link": "โชว์ลิ้งค์_Github",
-            "auto_launch_skincli": "เปิด_skincli_อัตโนมัติ",
-            "agent": "เอเจ้นท์",
-            "rank": "แร้งค์",
-            "map": "แมพ",
+            "game_launch_timeout": "ระยะเวลาสูงสุดในการเปิดเกม",
+            "presence_timeout": "ระยะเวลาสูงสุดของ Presence",
+            "show_github_link": "แสดงลิงก์ GitHub",
+            "auto_launch_skincli": "เปิด SkinCLI อัตโนมัติ",
+            "agent": "เอเจนท์",
+            "rank": "แรงก์",
+            "map": "แผนที่",
         },
         "prints": {
             "config_modification": {
                 "select_option": "เลือกการตั้งค่า",
-                "config_saved": "ตั้งค่าสำเร็จ! โปรดเปิดโปรแกรมใหม่เพื่อใช้งาน.",
+                "config_saved": "ตั้งค่าสำเร็จ ! โปรดเปิดโปรแกรมใหม่เพื่อใช้งาน",
                 "set_prompt": "ตั้งค่าเป็น"
             },
             "startup": {
                 "wait_for_rpc": "กำลังรอ RPC",
                 "discord_not_detected": "ไม่พบ Discord! กำลังเปิดเกมโดยไม่มี Presence...",
                 "starting_valorant": "กำลังเปิด VALORANT",
-                "startup_successful": "กำลังเริ่มทำงาน, ปิดหน้าต่างในอีก 5 วินาที",
+                "startup_successful": "กำลังเริ่มทำงาน ปิดหน้าต่างในอีก 5 วินาที",
                 "waiting_for_presence": "กำลังรอ Presence...",
                 "waiting_for_valorant": "กำลังรอ VALORANT...",
                 "autodetect_region": "กำลังตรวจหาภูมิภาค",
-                "autodetected_region": "ภูมิภาค:",
+                "autodetected_region": "ภูมิภาค :",
             },
             "presence": {
-                "presence_running": "Presence กำลังทำงานอยู่!",
+                "presence_running": "Presence กำลังทำงานอยู่ !",
             },
             "systray": {
                 "hiding_window": "ซ่อนหน้าต่าง",
             },
             "errors": {
-                "error_message": "มีข้อผิดพลาด: หากยังมีปัญหาอยู่, โปรดเปิด Issue บน Github.",
+                "error_message": "มีข้อผิดพลาด : หากยังมีปัญหาอยู่ โปรดเปิด Issue บน Github",
                 "exit": "กด Enter เพื่อออก...",
             },
             "version_checker": {
-                "update_available": "พบเวอร์ชั่นที่ใหม่กว่า! ดาวน์โหลดได้ที่",
-                "checker_error": "ไม่สามารถตรวจหาอัพเดทได้!",
+                "update_available": "พบเวอร์ชั่นที่ใหม่กว่า ! ดาวน์โหลดได้ที่",
+                "checker_error": "ไม่สามารถตรวจหาอัปเดตได้!",
             }
         },
         "presences": {
@@ -1307,18 +1313,18 @@ Locales = {
                 "menu": "เมนู",
                 "custom_setup": "สร้างห้อง",
                 "queue": "อยู่ในคิว",
-                "pregame": "กำลังเลือกเอเจ้นท์",
+                "pregame": "กำลังเลือกเอเจนท์",
             },
             "team_names": {
-                "TeamOne": "ฝั่งป้องกัน",
+                "TeamOne": "ฝั่งตั้งรับ",
                 "TeamTwo": "ฝั่งบุก",
                 "TeamSpectate": "ผู้ชม",
-                "TeamOneCoaches": "โค้ชของฝั่งป้องกัน",
+                "TeamOneCoaches": "โค้ชของฝั่งตั้งรับ",
                 "TeamTwoCoaches": "โค้ชของฝั่งบุก",
             },
             "modes": {
                 "newmap": "แมพใหม่",
-                "competitive": "แร้งค์",
+                "competitive": "แรงก์",
                 "unrated": "ธรรมดา",
                 "spikerush": "Spike Rush",
                 "deathmatch": "เดธแมตช์",
@@ -1329,11 +1335,11 @@ Locales = {
                 "": "สร้างห้อง",
             },
             "pregame": {
-                "selecting": "กำลังเลือกเอเจ้นท์",
-                "locked": "เลือกเอเจ้นท์แล้ว",
+                "selecting": "กำลังเลือกเอเจนท์",
+                "locked": "เลือกเอเจนท์แล้ว",
             },
             "leveling": {
-                "level": "เลเวล",
+                "level": "ระดับ",
                 "ranked_rating": "RR",
             },
             "startup": {
@@ -1425,10 +1431,12 @@ Locales = {
                 "unrated": "Derecesiz",
                 "spikerush": "Spike'a Hücum",
                 "deathmatch": "Ölüm Kalım Savaşı",
-                "ggteam": "Kopya",
-                "onefa": "Tırmanış",
+                "ggteam": "Tırmanış",
+                "onefa": "Kopya",
                 "custom": "Özel Oyun",
                 "snowball": "Kartopu Çatışması",
+                "swiftplay": "Tam Gaz",
+                "hurm": "Takımlı Ölüm Kalım Savaşı",
                 "": "Özel Maç",
             },
             "pregame": {
@@ -1739,6 +1747,8 @@ Locales = {
                 "onefa": "複製亂戰",
                 "custom": "自定對戰",
                 "snowball": "打雪仗",
+                "swiftplay": "超速衝點",
+                "hurm": "團隊死鬥",
                 "": "自定對戰",
             },
             "pregame": {
